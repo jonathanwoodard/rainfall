@@ -1,2 +1,4 @@
 # rainfall
-kaggle rainfall data set
+## kaggle rainfall data set
+### Authors: Matthew Bird & Jonathan Woodard
+
